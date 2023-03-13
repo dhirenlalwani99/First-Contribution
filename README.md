@@ -1,4 +1,8 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
+
+This project was created by Anuj-Kumar-Sharma.
+I have forked it into my github repo.
+
+Hi this is Dhiren and this is my contribution.
 This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hello Anuj Bhaiya thanks for this video It was Very Helpful.
